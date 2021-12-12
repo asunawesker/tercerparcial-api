@@ -1,0 +1,27 @@
+{
+  "name": "tercer-parcial-api",
+  "version": "1.0.0",
+  "description": "api made for the third test of tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asunawesker/tercer-parcial-api.git"
+  },
+  "author": "asunawesker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asunawesker/tercer-parcial-api/issues"
+  },
+  "homepage": "https://github.com/asunawesker/tercer-parcial-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.12.3"
+  }
+}
